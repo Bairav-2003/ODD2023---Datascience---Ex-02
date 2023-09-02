@@ -17,10 +17,7 @@ Outliers badly affect mean and standard deviation of the dataset. These may stat
 - Step3: Detect the Outliers using IQR method and Z score.
 - Step4: Remove the outliers.
 - Step5: Plot the datas using Box Plot.
-```
-212222230002
-ABINAYA S
-```
+
 ### Code:
 ##### bhp.csv:
 ```Python
